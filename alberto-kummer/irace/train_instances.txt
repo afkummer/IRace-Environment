@@ -1,63 +1,63 @@
-#!/bin/bash
+!/bin/bash
 
 # Uses 60% of Li & Lim dataset pdp100.
 # This is 33 instances from the instance pack.
 # I shuffled the instance list prior selecting which ones
 # to use during the algorithm configuration phase.
-
-lc101.txt
-lc105.txt
-lrc208.txt
-lc204.txt
-lr101.txt
-lr105.txt
-lrc106.txt
-lc103.txt
-lr207.txt
-lrc103.txt
-lr210.txt
-lc106.txt
-lc102.txt
-lr205.txt
-lr109.txt
-lr110.txt
-lrc201.txt
-lrc203.txt
-lc207.txt
-lc107.txt
-lrc206.txt
-lc206.txt
-lr102.txt
-lr201.txt
-lr107.txt
-lr111.txt
-lc108.txt
-lr203.txt
-lc203.txt
-lr106.txt
-lr204.txt
-lrc207.txt
-lr112.txt
-#lr206.txt
-#lrc102.txt
+lc101.txt -f ll -t 60 
+lc105.txt -f ll -t 60 
+lrc208.txt -f ll -t 60 
+lc204.txt -f ll -t 60 
+lr101.txt -f ll -t 60 
+lr105.txt -f ll -t 60 
+lrc106.txt -f ll -t 60 
+lc103.txt -f ll -t 60 
+lr207.txt -f ll -t 60 
+lrc103.txt -f ll -t 60 
+lr210.txt -f ll -t 60 
+lc106.txt -f ll -t 60 
+lc102.txt -f ll -t 60 
+lr205.txt -f ll -t 60 
+lr109.txt -f ll -t 60 
+lr110.txt -f ll -t 60 
+lrc201.txt -f ll -t 60 
+lrc203.txt -f ll -t 60 
+lc207.txt -f ll -t 60 
+lc107.txt -f ll -t 60 
+lrc206.txt -f ll -t 60 
+lc206.txt -f ll -t 60 
+lr102.txt -f ll -t 60 
+lr201.txt -f ll -t 60 
+lr107.txt -f ll -t 60 
+lr111.txt -f ll -t 60 
+lc108.txt -f ll -t 60 
+lr203.txt -f ll -t 60 
+lc203.txt -f ll -t 60 
+lr106.txt -f ll -t 60 
+lr204.txt -f ll -t 60 
+lrc207.txt -f ll -t 60 
+lr112.txt -f ll -t 60 
+#lr206.txt -f ll -t 60 
+#lrc102.txt -f ll -t 60 
 #lc202.txt
-#lc109.txt
-#lr108.txt
-#lrc108.txt
+#lc109.txt -f ll -t 60 
+#lr108.txt -f ll -t 60 
+#lrc108.txt -f ll -t 60 
 #lr211.txt
-#lc208.txt
-#lr104.txt
-#lr209.txt
-#lrc105.txt
+#lc208.txt -f ll -t 60 
+#lr104.txt -f ll -t 60 
+#lr209.txt -f ll -t 60 
+#lrc105.txt -f ll -t 60 
 #lc205.txt
-#lrc204.txt
-#lrc107.txt
+#lrc204.txt -f ll -t 60 
+#lrc107.txt -f ll -t 60 
 #lr208.txt
-#lrc205.txt
+#lrc205.txt -f ll -t 60 
 #lr103.txt
-#lc201.txt
-#lr202.txt
-#lrc104.txt
+#lc201.txt -f ll -t 60 
+#lr202.txt -f ll -t 60 
+#lrc104.txt -f ll -t 60 
 #lc104.txt
-#lrc202.txt
-#lrc101.txt
+#lrc202.txt -f ll -t 60 
+#lrc101.txt -f ll -t 60 
+#-f ll -t 60  
